@@ -1,2 +1,7 @@
-H� l�
-How r u ?
+﻿Module
+- Bài viết ưa thích
+- Đăng bài
+- Tìm kiếm
+- Bình luận
+- Tạo tài khoản
+- 
