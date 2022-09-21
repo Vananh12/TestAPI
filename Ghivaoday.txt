@@ -3,5 +3,13 @@
 - Đăng bài
 - Tìm kiếm
 - Bình luận
-- Tạo tài khoản
-- 
+- User model
++ id
++ display name
++ pass
++ user name
++ sex
++ birthday
++ address
++ phone
++ email
